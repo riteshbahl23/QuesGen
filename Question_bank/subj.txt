@@ -1,0 +1,152 @@
+6#1#2#State the chief food of gujarat. 
+6#2#2#List the source which provides us with eggs. 
+6#3#2#list the products we  get from plants.   
+6#4#2#Give two examples of natural fibre. 
+6#5#2#Give two examples of objects made of metals. 
+6#6#2#What type of substance are said to be soluable in water? 
+6#7#2#Name any gas wgich can be dissolved in water. 
+6#8#2#Raw egg is boiled. What kind of change is this? 
+6#9#2#The filament of the bulb is made up of? 
+6#10#2#That is a switch? 
+6#11#2#What is full form of SI units? 
+6#12#2#What is motion ? 
+6#13#2#Name four different types of joints. 
+6#14#2#What is a pivotal joint? 
+6#15#2#What is the function of gills in the body of fish? 
+6#1#3#Explain how jute plants are harvested. 
+6#2#3#When a single yarn is pulled out continuously  from a torn pair of socks, the fabric gets unravelled. Why? 
+6#3#3#How can the process of expansion be used to fix a metal rim tightly on a wooden wheel? 
+6#4#3#Why is carbon dioxide gas used to extinguish fire? 
+6#5#3#How does a tree look when seen through a pinhole camera? 
+6#6#3#Give reasons for the following:i.Fishes have streamlined body shape.ii.Fishes cannot survive outside water. 
+6#7#3#People  in  many  places  carelessly  throw  plastic  bags  on  roads. How  will  this  pose  a problem for drains and sewer systems? 
+6#8#3#What will happen if the saturated solution of a substance in water is heated, and ii cooled?  
+6#9#3#Write any 2 points of difference between transparent and opaque materials. 
+6#10#3#How will you test the presence of starch in food? 
+6#11#3#An eraser is one fifth the length of a pencil. A pencil is twice the length of a compass. If the length of the compass is 7.5 cm, what is the length of the eraser?
+6#12#3#Explain how jute plants are harvested.
+6#13#3#What advantage do the highlighted features give to a fish? 
+6#14#3#When a single yarn is pulled out continuously  from a torn pair of socks, the fabric gets unravelled. Why? 
+6#15#3#How can the process of expansion be used tofix a metal rim tightly on a wooden wheel? 
+7#1#2#Differentiate between mariane and inland fisheries.
+7#2#2#Define frequency and amplitude of a sound wave.
+7#3#2#What is law of conservation energy?
+7#4#2#What is work?Calculate work when force is 7N and displacement is 5m.
+7#5#2#A sone is released from a tower of height 19.6m calculate its velocity just before it touches the ground.
+7#6#2#Give archimeded principle of relative density.
+7#7#2#What are thrust and pressure?
+7#8#2#Define third law of motion.
+7#9#2#Define inertia.How many tyoes are there?
+7#10#2#List all the categories in which vertebreta is further classified.
+7#11#2#Give the common names of octopus,chiton,pila and ascaris.
+7#12#2#list one basic difference betwwen cell wall and cell memebrane.
+7#13#2#Give any 4 examples of pure substances.
+7#14#2#How many naturally occuring elements are known to us.Also state elements which are liquid at room temperature.
+7#15#2#Define sublimation.
+7#1#3#Why should we wear cotton clothes in summer? Explain.
+7#2#3#Differentiate between boiling and evaporation.
+7#3#3#What is latent heat of vaporisation and latent heat of fusion.
+7#4#3#Why is ice more effective in cooling at 273K than water?
+7#5#3#Describe an activity to seprate two miscible liquids.
+7#6#3#Descibe how can we seprate two imsicible liquids.
+7#7#3#list all the postulates of daltons atomic theory.
+7#8#3#What does the law of constant proportions state.Also give an example.
+7#9#3#Differentiate between isobars and isotopes.Also give examples.
+7#10#3#List all the postulates of Rutherford's alpha particle scattering.
+7#11#3#Who discovered electrons.List any two its features.
+7#12#3#What are lysosomes .Describe all of their types.
+7#13#3#What is the speciality of prokaryotic cell.
+7#14#3#Derive an expression for Second equation of motion.
+7#15#3#Explain any two applocations of ultrasound in detail.
+when placed on a liquid.
+8#1#2#Why does calcium start floating when added to water? 
+8#2#2#Most of the metals do not give hydrogen while reacting with nitric acid. Why? 
+8#3#2#Differentiate between peripheral nervous system and central nervous system. 
+8#4#2#Explain maxwells right and left hand thumb rule. 
+8#5#2#Give reason why bulbs are filled eith inert gases. 
+8#6#2#Give two uses of B;eaching powder. 2
+8#7#2#Give an example of redox reaction and double displacement reaction. 
+8#8#2#Explain corrosion and also state its any two disadvantages. 
+8#9#2#What is common property of acids and bases. Explain any two. 
+8#10#2#How do plants do selfe defence. Explain the role of pH in it. 
+8#11#2#State all the physical properties of metals with exceptions. 
+8#12#2#Make lewis dot structures for formation sodium chloride and magnesium chloride. 
+8#13#2#Explain the function of prostate gland. 
+8#14#2#state the laws of reflection and refraction. 
+8#15#2#What are fossils and how are they useful in studying evolution.  
+8#1#3#The electronic configuration of an element X is 2,8,8,2 .To which period does the element belong. State its valency.Also justify your answe. 
+8#2#3#Name the differnt glands associated with human digestive system and also name their secretions. 
+8#3#3#Explain with the help of suitable examples why certain traits cannot be passed onto the next genaration. 
+8#4#3#Explain the formation of a rainbow also state the necessary conditions for its formation. 
+8#5#3#Draw the diagram of human alimentary canal and label all the organs. 
+8#6#3#Give the evidence that birds have evolved from reptiles.Also give reason why can't we group insects, panaria and octopus in one group as they all have eyes. 
+8#7#3#Explain giving reason why sky appears blue to an observer and black to an astronout. 
+8#8#3#If the image formed by a mirror for all positions of object placed in front of it is virtual,what type of mirror is it. Draw ray diagrams. 
+8#9#3#List specific characterstics of sexual reproduction. 
+8#10#3#Both soap and detergents are same type of salts. What is the difference between them.  
+8#11#3#Descibe in detail the cleansing action of soaps. 
+8#12#3#Give any five properties of magnetic field lines. 
+8#13#3#What are covalent bonds?List their three characterstics. 
+8#14#3#How do organism maintain a constant chromosome number.Explain with suitable example. 
+8#15#3#What was Chipko Andolan?How did it help the environment? 
+9#1#2#Differentiate between mariane and inland fisheries.
+9#2#2#Define frequency and amplitude of a sound wave.
+9#3#2#What is law of conservation energy?
+9#4#2#What is work?Calculate work when force is 7N and displacement is 5m.
+9#5#2#A sone is released from a tower of height 19.6m calculate its velocity just before it touches the ground.
+9#6#2#Give archimeded principle of relative density.
+9#7#2#What are thrust and pressure?
+9#8#2#Define third law of motion.
+9#9#2#Define inertia.How many tyoes are there?
+9#10#2#List all the categories in which vertebreta is further classified.
+9#11#2#Give the common names of octopus,chiton,pila and ascaris.
+9#12#2#list one basic difference betwwen cell wall and cell memebrane.
+9#13#2#Give any 4 examples of pure substances.
+9#14#2#How many naturally occuring elements are known to us.Also state elements which are liquid at room temperature.
+9#15#2#Define sublimation.
+9#1#3#Why should we wear cotton clothes in summer? Explain.
+9#2#3#Differentiate between boiling and evaporation.
+9#3#3#What is latent heat of vaporisation and latent heat of fusion.
+9#4#3#Why is ice more effective in cooling at 273K than water?
+9#5#3#Describe an activity to seprate two miscible liquids.
+9#6#3#Descibe how can we seprate two imsicible liquids.
+9#7#3#list all the postulates of daltons atomic theory.
+9#8#3#What does the law of constant proportions state.Also give an example.
+9#9#3#Differentiate between isobars and isotopes.Also give examples.
+9#10#3#List all the postulates of Rutherford's alpha particle scattering.
+9#11#3#Who discovered electrons.List any two its features.
+9#12#3#What are lysosomes .Describe all of their types.
+9#13#3#What is the speciality of prokaryotic cell.
+9#14#3#Derive an expression for Second equation of motion.
+9#15#3#Explain any two applocations of ultrasound in detail.
+10#1#2#Why does calcium start floating when added to water? 
+10#2#2#Most of the metals do not give hydrogen while reacting with nitric acid.Why? 
+10#3#2#Differentiate between peripheral nervous system and central nervous system. 
+10#4#2#Explain maxwells right and left hand thumb rule. 
+10#5#2#Give reason why bulbs are filled eith inert gases. 
+10#6#2#Give two uses of B;eaching powder. 
+10#7#2#Give an example of redox reaction and double displacement reaction. 
+10#8#2#Explain corrosion and also state its any two disadvantages. 
+10#9#2#What is common property of acids and bases. Explain any two. 
+10#10#2#How do plants do selfe defence. Explain the role of pH in it. 
+10#11#2#State all the physical properties of metals with exceptions. 
+10#12#2#Make lewis dot structures for formation sodium chloride and magnesium chloride. 
+10#13#2#Explain the function of prostate gland. 
+10#14#2#state the laws of reflection and refraction. 
+10#15#2#What are fossils and how are they useful in studying evolution.  
+10#1#3#The electronic configuration of an element X is 2,8,8,2 .To which period does the element belong. State its valency.Also justify your answer. 
+10#2#3#Name the differnt glands associated with human digestive system and also name their secretions. 
+10#3#3#Explain with the help of suitable examples why certain traits cannot be passed onto the next genaration. 
+10#4#3#Explain the formation of a rainbow also state the necessary conditions for its formation. 
+10#5#3#Draw the diagram of human alimentary canal and label all the organs. 
+10#6#3#Give the evidence that birds have evolved from reptiles.Also give reason why can't we group insects, panaria and octopus in one group as they all have eyes. 
+10#7#3#Explain giving reason why sky appears blue to an observer and black to an astronout. 
+10#8#3#If the image formed by a mirror for all positions of object placed in front of it is virtual,what type of mirror is it. Draw ray diagrams.  
+10#9#3#List specific characterstics of sexual reproduction. 
+10#10#3#Both soap and detergents are same type of salts. What is the difference between them.  
+10#11#3#Descibe in detail the cleansing action of soaps. 
+10#12#3#Give any five properties of magnetic field lines. 
+10#13#3#What are covalent bonds?List their three characterstics. 
+10#14#3#How do organism maintain a constant chromosome number.Explain with suitable example. 
+10#15#3#What was Chipko Andolan?How did it help the environment? 
+

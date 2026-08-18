@@ -1,0 +1,78 @@
+6#1#1#The mineral required for the proper functioning of the thyroid gland is? 
+6#2#1#Hay and grains are eaten by? 
+6 #3#1#Which part of the flower protects it when it is in the bud form?  
+6 #4#1#The heart is protected by the? 
+6#5#1#The body of the earthworm lacks? 
+6#6#1#From which part of the jute plant is the jute fibre obtained? 
+6#7#1#The length of the playground is ten times the length of the classroom.If the classroom is 10 m long, then the playground is ______ long. 
+6#8#1#The pendulum of a clock has which type of motion? 
+6#9#1#Which is the constant source source of light? 
+6#10#1#The image formed by a pinhole camera is?
+6#11#1#Sunlight helps in building up of which form of vitamin? 
+6#12#1#Watervapourcomes out of leaves during?   
+6#13#1#The animal whose movement is usually termed'creeping' is? 
+6#14#1#The lower bones of the lower arm are? 
+6#15#1#Which organ of frog helps to swim in water? 
+7#1#1#What are the characterstics of the particles of matter?
+7#2#1#List the three states of matter?
+7#3#1#Define melting point. 
+7#4#1#What is a solution?
+7#5#1#Name the method by which we can seprate the components of air.
+7#6#1#Who first used the term atom?
+7#7#1#Who gave the first structure of atom?
+7#8#1#Who discovered the cell nucleus?
+7#9#1#Define permenant tissue.
+7#10#1#Give two examples of thallophyta.
+7#11#1#Why does porifera get its name as?
+7#12#1#Define acceleration.
+7#13#1#What type of wave is sound wave?
+7#14#1#What is sonic boom?
+7#15#1#Define animal husbandry. 
+8#1#1#Name the sensory receptors found in the tongue and nose. 
+8#2#1#Define a solar pannel. 
+8#3#1#State the mpdern periodic law of classtification of elements. 
+8#4#1#State Maxwells right hand thumb rule. 
+8#5#1#What is the least count of a voltmeter? 
+8#6#1#How is the pH paper used to find the pH of a solution? 
+8#7#1#Write any one method to induce current in a coil. 
+8#8#1#State the no. of water molecules present in crystals of washing soda. 
+8#9#1#State any one use of plaster of paris. 
+8#10#1#Three resistors of 5ohm,10ohm,20ohm are connected in series find the ir equivalent resistance. 
+8#11#1#Name the process of asexual reproduction shown by yeast. 
+8#12#1#What is a gene? 
+8#13#1#Why Sodium metal is kept submerged in kerosene oil? 
+8#14#1#Define reflex action. 
+8#15#1#Why do raisins absorb water when soaked in water? 
+8#16#1#Name the components of peripheral nervous system.
+9#1#1#Name the sensory receptors found in the tongue and nose. 
+9#2#1#Define a solar pannel. 
+9#3#1#State the mpdern periodic law of classtification of elements. 
+9#4#1#State Maxwells right hand thumb rule. 
+9#5#1#What is the least count of a voltmeter? 
+9#6#1#How is the pH paper used to find the pH of a solution? 
+9#7#1#Write any one method to induce current in a coil. 
+9#8#1#State the no. of water molecules present in crystals of washing soda. 
+9#9#1#State any one use of plaster of paris. 
+9#10#1#Three resistors of 5ohm,10ohm,20ohm are connected in series find the ir equivalent resistance. 
+9#11#1#Name the process of asexual reproduction shown by yeast. 
+9#12#1#What is a gene? 
+9#13#1#Why Sodium metal is kept submerged in kerosene oil? 
+9#14#1#Define reflex action. 
+9#15#1#Why do raisins absorb water when soaked in water? 
+9#16#1#Name the components of peripheral nervous system. 
+10#1#1#The mineral required for the proper functioning of the thyroid gland is? 
+10#2#1#Hay and grains are eaten by? 
+10#3#1#Which part of the flower protects it when it is in the bud form?  
+10#4#1#The heart is protected by the? 
+10#5#1#The body of the earthworm lacks? 
+10#6#1#From which part of the jute plant is the jute fibre obtained? 
+10#7#1#The length of the playground is ten times the length of the classroom.If the classroom is 10 m long, then the playground is ______ long. 
+10#8#1#The pendulum of a clock has which type of motion? 
+10#9#1#Which is the constant source source of light? 
+10#10#1#The image formed by a pinhole camera is?
+10#11#1#Sunlight helps in building up of which form of vitamin? 
+10#12#1#Watervapourcomes out of leaves during?   
+10#13#1#The animal whose movement is usually termed'creeping' is? 
+10#14#1#The lower bones of the lower arm are? 
+10#15#1#Which organ of frog helps to swim in water? 
+
